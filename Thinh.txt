@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Chao ban minh la Nguyen Tran Hoi Thang
-=======
 Chao ban, toi la Nguyen Huynh Phuc Thinh.
->>>>>>> 23fc0609cd9d7dcea0e8a1a737fc8b306906cc1c
+
